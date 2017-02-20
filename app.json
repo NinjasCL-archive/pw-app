@@ -71,7 +71,8 @@
                 "padding": "20"
               },
               "href": {
-                "url": "http://ninjas.cl"
+                "url": "http://ninjas.cl",
+                "view" : "web"
               }
             }
           ]
