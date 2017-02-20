@@ -62,6 +62,17 @@
               "href": {
                 "url": "https://raw.githubusercontent.com/NinjasCL/pw-app/master/forum.json"
               }
+            },
+            {
+              "type": "label",
+              "text": "Made by Ninjas.cl",
+              "class": "bold",
+              "style": {
+                "padding": "20"
+              },
+              "href": {
+                "url": "http://ninjas.cl"
+              }
             }
           ]
         }
